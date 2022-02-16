@@ -1,5 +1,5 @@
 //imports
-import pokemonArray from "./data.js";
+import pokemonArray from "./data/data.js";
 
 // variables
 const cardContainer = document.querySelector(".card-container");
